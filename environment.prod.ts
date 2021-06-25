@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  system: "prod",
+  system: "production",
   CONTEXT_URL: "https://apistaging.marketplace.afcatusa.com/api",
   version: "jenkinsBuildNO",
 };
